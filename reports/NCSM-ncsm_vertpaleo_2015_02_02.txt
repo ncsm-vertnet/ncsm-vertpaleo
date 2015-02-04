@@ -1,0 +1,66 @@
+Report for Institution Code NCSM, Resource ncsm_vertpaleo
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 6
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-18 ; Times: 1
+	Date: 2015-01-26 ; Times: 1
+	Date: 2015-01-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "edmontosaurus" ; Times: 1
+	Query: ""stylemys nebrascensis" type:specimen fossil:1" ; Times: 1
+	Query: "dorudon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 445 download events in this period)
+Total number of records downloaded: 411 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 409
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-04 ; Times: 2
+	Date: 2015-01-18 ; Times: 1
+	Date: 2015-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Carnivora america" ; Times: 1
+	Query: ""stylemys nebrascensis" type:specimen fossil:1" ; Times: 1
+	Query: "Sciurus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 43
+Total number of records retrieved from searches: 1663
+Number of download events that retrieved data from the resource: 5
+Total number of records downloaded: 411
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 46
+Total number of records retrieved from searches: 1669
+Number of download events that retrieved data from the resource: 25
+Total number of records downloaded: 1799
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
