@@ -1,0 +1,90 @@
+Report for Institution Code NCSM, Resource NCSM-VertPaleo
+Usage stats for August, 2015, generated on 2015/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 351
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-04 ; Times: 1
+	Date: 2015-08-08 ; Times: 1
+	Date: 2015-08-15 ; Times: 1
+	Date: 2015-08-16 ; Times: 12
+	Date: 2015-08-17 ; Times: 3
+	Date: 2015-08-19 ; Times: 1
+	Date: 2015-08-20 ; Times: 3
+	Date: 2015-08-21 ; Times: 1
+	Date: 2015-08-28 ; Times: 3
+	Date: 2015-08-29 ; Times: 1
+	Date: 2015-08-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "phoebastria albatrus type:specimen" ; Times: 1
+	Query: "webb year >= 2007 year <= 2007" ; Times: 1
+	Query: "catalognumber:8568" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 2
+	Query: "25393" ; Times: 1
+	Query: "class:Reptilia institutioncode:NCSM year >= 2014 year <= 2015" ; Times: 14
+	Query: "notorynchus cepedianus" ; Times: 3
+	Query: "tissue:1 fossil:1" ; Times: 1
+	Query: "catalognumber:21324" ; Times: 1
+	Query: "county:"Robeson" class:Reptilia" ; Times: 2
+	Query: "institutioncode:NCSM year >= 2014 year <= 2015" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1138 download events in this period)
+Total number of records downloaded: 89 (out of 5370164 records downloaded for all resources in this period)
+Total number of unique records downloaded: 45
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-08-01 ; Times: 1
+	Date: 2015-08-02 ; Times: 1
+	Date: 2015-08-17 ; Times: 8
+	Date: 2015-08-19 ; Times: 1
+	Date: 2015-08-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"Delaware" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "type:specimen stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "Didelphidae" ; Times: 1
+	Query: "stateprovince:"Pennsylvania"" ; Times: 1
+	Query: "type:specimen stateprovince:"New Jersey" country:"United States"" ; Times: 1
+	Query: "class:aves (feather)" ; Times: 1
+	Query: "didelphidae" ; Times: 1
+	Query: "country:Brazil" ; Times: 2
+	Query: "didelphis" ; Times: 1
+	Query: "stateprovince:"Pennsylvania" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Maryland" country:"United States"" ; Times: 1
+	Query: "stateprovince:"Delaware" country:"United States"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 28
+Total number of records retrieved from searches: 351
+Number of download events that retrieved data from the resource: 15
+Total number of records downloaded: 89
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 28
+Total number of records retrieved from searches: 351
+Number of download events that retrieved data from the resource: 15
+Total number of records downloaded: 89
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
