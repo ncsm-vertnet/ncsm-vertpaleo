@@ -1,0 +1,95 @@
+Report for Institution Code NCSM, Resource ncsm_vertpaleo
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 45
+Number of records retrieved in searches: 1592
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-24 ; Times: 3
+	Date: 2015-09-10 ; Times: 1
+	Date: 2015-09-18 ; Times: 7
+	Date: 2015-09-03 ; Times: 4
+	Date: 2015-09-02 ; Times: 13
+	Date: 2015-09-01 ; Times: 6
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-25 ; Times: 4
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "allosaurus" ; Times: 1
+	Query: "catalognumber:8171 institutioncode:NCSM" ; Times: 4
+	Query: "class:Reptilia collectioncode:NCSM year &gt;= 2014 year &lt;= 2015" ; Times: 1
+	Query: "umnh Reptilia type:specimen (paleo)" ; Times: 1
+	Query: "allodesmus" ; Times: 1
+	Query: "county:&#34;Bladen&#34; class:Reptilia institutioncode:NCSM year &gt;= 2000 year &lt;= 2015" ; Times: 4
+	Query: "county:&#34;Bladen&#34; class:Reptilia institutioncode:NCSM year &gt;= 1990 year &lt;= 2000" ; Times: 4
+	Query: "Archosauriform" ; Times: 2
+	Query: "notorynchus cepedianus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Dorchester&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "county:&#34;Bladen&#34; class:Reptilia institutioncode:NCSM year &gt;= 1980 year &lt;= 1990" ; Times: 3
+	Query: "institutioncode:NCSM year &gt;= 2014 year &lt;= 2015" ; Times: 1
+	Query: "hadrosauridae" ; Times: 2
+	Query: "hadrosaurus" ; Times: 1
+	Query: "FossilSpecimen institutioncode:NCSM" ; Times: 3
+	Query: "FossilSpecimen institutioncode:NCSM fossil:1" ; Times: 1
+	Query: "hadrosaurus foulkii" ; Times: 3
+	Query: "umnh Reptilia type:specimen AND (paleo)" ; Times: 1
+	Query: "redpath" ; Times: 1
+	Query: "catalognumber:8427 institutioncode:NCSM" ; Times: 1
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "umnh Reptilia type:specimen" ; Times: 1
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "notorynchus" ; Times: 2
+	Query: "class:Reptilia institutioncode:NCSM year &gt;= 2014 year &lt;= 2015" ; Times: 1
+	Query: "catalognumber:13183 collectioncode:NCSM" ; Times: 1
+	Query: "catalognumber:8172 institutioncode:NCSM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1045 download events in this period)
+Total number of records downloaded: 209
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-16 ; Times: 4
+	Date: 2015-09-10 ; Times: 3
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-05 ; Times: 1
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-01 ; Times: 1
+	Date: 2015-09-17 ; Times: 1
+	Date: 2015-09-25 ; Times: 2
+	Date: 2015-09-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "(Peromyscus)" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "(Mammuthus )" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+
+
+End of report.
