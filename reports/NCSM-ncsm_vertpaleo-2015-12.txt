@@ -1,0 +1,41 @@
+Report for Institution Code NCSM, Resource ncsm_vertpaleo
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1
+Number of records retrieved in searches: 1
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:1017" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 889 download events in this period)
+Total number of records downloaded: 12
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-31 ; Times: 1
+	Date: 2015-12-25 ; Times: 1
+	Date: 2015-12-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Geomys pinetis" ; Times: 1
+	Query: "family:Amiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus" ; Times: 1
+
+
+End of report.
