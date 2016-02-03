@@ -1,0 +1,60 @@
+Report for Institution Code NCSM, Resource ncsm_vertpaleo
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 105
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-01 ; Times: 3
+	Date: 2015-10-08 ; Times: 1
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-28 ; Times: 2
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-23 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "blue whale" ; Times: 1
+	Query: "class:Reptilia collectioncode:NCSM year &gt;= 2014 year &lt;= 2015" ; Times: 1
+	Query: "class:Reptilia collectioncode:NCSM year &gt;= 2000 year &lt;= 2000 month &gt;= 11 month &lt;= 12" ; Times: 1
+	Query: "Prehistoric fossils" ; Times: 3
+	Query: "genus:Alligator collectioncode:NCSM" ; Times: 1
+	Query: "eric lee" ; Times: 1
+	Query: "procyon lotor type:specimen institutioncode:NCSM" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "class:Reptilia collectioncode:NCSM year &gt;= 2000 year &lt;= 2001 month &gt;= 11 month &lt;= 12" ; Times: 1
+	Query: "class:Reptilia county:&#34;Lee&#34; collectioncode:NCSM year &gt;= 2000 year &lt;= 2015" ; Times: 1
+	Query: "brachychampsa" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 823 download events in this period)
+Total number of records downloaded: 201
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-30 ; Times: 1
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "(amphibia) fossil:1" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+
+
+End of report.
