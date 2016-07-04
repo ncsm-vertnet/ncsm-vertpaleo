@@ -1,0 +1,77 @@
+Report for Institution Code NCSM, Resource ncsm_vertpaleo
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 144
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 8
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-08 ; Times: 2
+	Date: 2016-06-05 ; Times: 3
+	Date: 2016-06-01 ; Times: 4
+	Date: 2016-06-03 ; Times: 12
+	Date: 2016-06-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Reptilia 26127" ; Times: 1
+	Query: "Reptilia 23129" ; Times: 1
+	Query: "Reptilia 25158" ; Times: 1
+	Query: "Reptilia 8223" ; Times: 1
+	Query: "16754" ; Times: 1
+	Query: "Falcarius" ; Times: 1
+	Query: "genus:Mola institutioncode:NCSM" ; Times: 1
+	Query: "11139" ; Times: 1
+	Query: "Reptilia 24643" ; Times: 2
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 8
+	Query: "Reptilia 21632" ; Times: 1
+	Query: "Reptilia 27353" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "Reptilia 4058" ; Times: 2
+	Query: "53 county:&#34;Bladen&#34;" ; Times: 2
+	Query: "genus:Mola" ; Times: 1
+	Query: "Reptilia 1794" ; Times: 2
+	Query: "Reptilia 6606" ; Times: 1
+	Query: "Reptilia 8516" ; Times: 1
+	Query: "Reptilia 27138" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1052 download events in this period)
+Total number of records downloaded: 119
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-14 ; Times: 4
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-13 ; Times: 2
+	Date: 2016-06-03 ; Times: 3
+	Date: 2016-06-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudemys" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "lagenorhynchus" ; Times: 3
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "peromyscus gossypinus" ; Times: 1
+	Query: "PRISTIS PRISTIS" ; Times: 1
+
+
+End of report.
