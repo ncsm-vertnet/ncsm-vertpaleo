@@ -1,0 +1,58 @@
+Report for Institution Code NCSM, Resource ncsm_vertpaleo
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 231
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: France ; Times: 10
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-30 ; Times: 2
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-05 ; Times: 6
+	Date: 2017-12-06 ; Times: 1
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-11 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia preparations:skull institutioncode:NCSM" ; Times: 2
+	Query: "genus:Sphyrna" ; Times: 2
+	Query: "order:Ornithischia preparations:skull institutioncode:NCSM" ; Times: 1
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "(14C) isfossil:1" ; Times: 2
+	Query: "genus:Thescelosaurus institutioncode:NCSM" ; Times: 2
+	Query: "Galeorhinus galeus" ; Times: 3
+	Query: "22094" ; Times: 1
+	Query: "Odontaspis noronhai" ; Times: 2
+	Query: "Carcharhinus brachyurus" ; Times: 2
+	Query: "Carcharhinus leucas" ; Times: 1
+	Query: "genus:Deinosuchus class:Reptilia preparations:skull institutioncode:NCSM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 674 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-14 ; Times: 1
+	Date: 2017-12-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "preparations:egg" ; Times: 1
+
+
+End of report.
