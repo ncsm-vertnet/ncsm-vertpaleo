@@ -1,0 +1,63 @@
+Report for Institution Code NCSM, Resource ncsm_vertpaleo
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 25
+Number of records retrieved in searches: 59
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-15 ; Times: 17
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-17 ; Times: 1
+	Date: 2018-02-27 ; Times: 2
+	Date: 2018-02-20 ; Times: 3
+	Date: 2018-02-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "NCSM 15355" ; Times: 2
+	Query: "NCSM 15329" ; Times: 2
+	Query: "NCSM 15324" ; Times: 2
+	Query: "NCSM 15326" ; Times: 2
+	Query: "NCSM 15327" ; Times: 4
+	Query: "NCSM 15348" ; Times: 6
+	Query: "Oliver Jones" ; Times: 1
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "Odontaspis noronhai" ; Times: 3
+	Query: "Carcharhinus brachyurus" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1892 download events in this period)
+Total number of records downloaded: 4251
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Geomys pinetis" ; Times: 2
+	Query: "class:Mammalia institutioncode:NCSM" ; Times: 1
+	Query: "buren" ; Times: 1
+	Query: "family:Gaviidae hastissue:1" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+
+
+End of report.
