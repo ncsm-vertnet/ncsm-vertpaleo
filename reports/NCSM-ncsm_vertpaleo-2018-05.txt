@@ -1,0 +1,57 @@
+Report for Institution Code NCSM, Resource ncsm_vertpaleo
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 34
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-16 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "AL 3054" ; Times: 1
+	Query: "NCSM 6096" ; Times: 1
+	Query: "NCSM 11047" ; Times: 1
+	Query: "NCSM 6003" ; Times: 2
+	Query: "NCSM 31124" ; Times: 1
+	Query: "NCSM 14726" ; Times: 1
+	Query: "NCSM 16814" ; Times: 1
+	Query: "NCSM 11052" ; Times: 1
+	Query: "NCSM 11051" ; Times: 1
+	Query: "NCSM 25545" ; Times: 2
+	Query: "NCSM 12737" ; Times: 1
+	Query: "24432" ; Times: 1
+	Query: "NCSM 22734" ; Times: 1
+	Query: "NCSM 7432" ; Times: 1
+	Query: "NCSM 22733" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1178 download events in this period)
+Total number of records downloaded: 113
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Serpentes" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+
+
+End of report.
