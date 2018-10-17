@@ -1,0 +1,62 @@
+Report for Institution Code NCSM, Resource ncsm_vertpaleo
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 34
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 3
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-22 ; Times: 2
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-27 ; Times: 2
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-01 ; Times: 2
+	Date: 2018-07-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:21851 institutioncode:NCSM" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;SOUTH CAROLINA&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "catalognumber:6850 institutioncode:NCSM" ; Times: 1
+	Query: "class:Aves institutioncode:NCSM hastypestatus:1" ; Times: 1
+	Query: "catalognumber:422 institutioncode:NCSM" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 2
+	Query: "ncsm 9171" ; Times: 1
+	Query: "cm 4597" ; Times: 1
+	Query: "catalognumber:14838 institutioncode:NCSM" ; Times: 2
+	Query: "genus:aetobatis" ; Times: 2
+	Query: "catalognumber:24693 institutioncode:NCSM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 977 download events in this period)
+Total number of records downloaded: 34
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Ukraine ; Times: 1
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Ukraine&#34; continent:Europe" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;SOUTH CAROLINA&#34; year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "class:Aves institutioncode:NCSM hastypestatus:1" ; Times: 1
+
+
+End of report.
