@@ -1,0 +1,49 @@
+Report for Institution Code NCSM, Resource ncsm_vertpaleo
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 22
+Number of records retrieved in searches: 186
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: New Zealand ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-06 ; Times: 10
+	Date: 2019-05-20 ; Times: 11
+	Date: 2019-05-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "eodiaphyodus granulosus" ; Times: 11
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "Carcharhinus plumbeus" ; Times: 1
+	Query: "genus:Manta" ; Times: 1
+	Query: "Carcharhinus perezii" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 1
+	Query: "Carcharhinus macloti" ; Times: 1
+	Query: "Notorynchus cepedianus" ; Times: 1
+	Query: "Odontaspis noronhai" ; Times: 1
+	Query: "Carcharhinus brachyurus" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 940 download events in this period)
+Total number of records downloaded: 2
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ursus americanus" ; Times: 1
+
+
+End of report.
