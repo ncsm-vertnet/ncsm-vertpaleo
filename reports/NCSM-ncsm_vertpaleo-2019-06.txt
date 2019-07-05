@@ -1,0 +1,86 @@
+Report for Institution Code NCSM, Resource ncsm_vertpaleo
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 465
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 31
+	Country: New Zealand ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-30 ; Times: 10
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-27 ; Times: 11
+	Date: 2019-06-11 ; Times: 11
+	Date: 2019-06-03 ; Times: 2
+	Date: 2019-06-12 ; Times: 1
+	Date: 2019-06-10 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Equus stateprovince:&#34;North Carolina&#34; isfossil:1" ; Times: 1
+	Query: "Carcharhinus perezii" ; Times: 2
+	Query: "genus:Equus stateprovince:&#34;South Carolina&#34; isfossil:1" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 2
+	Query: "genus:Brachychampsa specificepithet:montana" ; Times: 2
+	Query: "class:reptilia locality:wake" ; Times: 1
+	Query: "genus:Merycoidodon specificepithet:culbertsoni" ; Times: 2
+	Query: "genus:Adocus" ; Times: 1
+	Query: "genus:Equus stateprovince:&#34;Mississippi&#34; isfossil:1" ; Times: 1
+	Query: "catalognumber:14696 institutioncode:NCSM" ; Times: 1
+	Query: "genus:Trionyx" ; Times: 1
+	Query: "Carcharhinus macloti" ; Times: 2
+	Query: "Notorynchus cepedianus" ; Times: 2
+	Query: "catalognumber:19425 institutioncode:NCSM" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "green sturgeon hastissue:1" ; Times: 1
+	Query: "genus:Subhyracodon" ; Times: 1
+	Query: "genus:Megalonyx specificepithet:jeffersoni" ; Times: 2
+	Query: "genus:Nannippus specificepithet:westoni" ; Times: 1
+	Query: "genus:Clidastes specificepithet:propython" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 2
+	Query: "genus:Equus specificepithet:complicatus" ; Times: 2
+	Query: "Odontaspis noronhai" ; Times: 2
+	Query: "Pristis pristis" ; Times: 1
+	Query: "genus:Bison stateprovince:&#34;North Carolina&#34; isfossil:1" ; Times: 1
+	Query: "25978" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 2
+	Query: "genus:Hesperocyon specificepithet:gregarius" ; Times: 2
+	Query: "genus:Platecarpus specificepithet:tympaniticus" ; Times: 1
+	Query: "Odontaspis ferox" ; Times: 2
+	Query: "genus:Carcharocles specificepithet:auriculatus" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 2
+	Query: "genus:Xiphactinus specificepithet:audax" ; Times: 1
+	Query: "Carcharhinus plumbeus" ; Times: 2
+	Query: "Carcharhinus brachyurus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1182 download events in this period)
+Total number of records downloaded: 102
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-07 ; Times: 2
+	Date: 2019-06-05 ; Times: 3
+	Date: 2019-06-10 ; Times: 2
+	Date: 2019-06-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Equus stateprovince:&#34;North Carolina&#34; isfossil:1" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;South Carolina&#34; institutioncode:NCSM" ; Times: 1
+	Query: "genus:Equus stateprovince:&#34;South Carolina&#34; isfossil:1" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "Ursus americanus" ; Times: 2
+	Query: "ursus americanus" ; Times: 2
+
+
+End of report.
