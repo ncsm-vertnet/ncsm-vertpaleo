@@ -1,0 +1,51 @@
+Report for Institution Code NCSM, Resource ncsm_vertpaleo
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 276
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Canada ; Times: 1
+	Country: Venezuela ; Times: 2
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-19 ; Times: 2
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-08 ; Times: 3
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-20 ; Times: 2
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:3263 collectioncode:NCSM" ; Times: 1
+	Query: "co2" ; Times: 1
+	Query: "30879" ; Times: 1
+	Query: "Odontaspis ferox" ; Times: 1
+	Query: "21879" ; Times: 1
+	Query: "28575" ; Times: 1
+	Query: "28574" ; Times: 1
+	Query: "DASYATIS centroura" ; Times: 1
+	Query: "genus:Chilomycteris" ; Times: 1
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "genus:Morus " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1034 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
