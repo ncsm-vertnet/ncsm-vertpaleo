@@ -1,0 +1,68 @@
+Report for Institution Code NCSM, Resource ncsm_vertpaleo
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 76
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-02 ; Times: 2
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-14 ; Times: 3
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-22 ; Times: 3
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-27 ; Times: 1
+	Date: 2020-01-21 ; Times: 3
+	Date: 2020-01-23 ; Times: 2
+	Date: 2020-01-30 ; Times: 1
+	Date: 2020-01-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:21499 institutioncode:NCSM" ; Times: 2
+	Query: "13990" ; Times: 1
+	Query: "catalognumber:21569 institutioncode:NCSM" ; Times: 2
+	Query: "genus:Isogomphodon" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "family:molidae" ; Times: 1
+	Query: "order:Proboscidea stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Equus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:19214 institutioncode:NCSM" ; Times: 2
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "catalognumber:21567 institutioncode:NCSM" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "family:Equidae stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:1909 institutioncode:NCSM" ; Times: 1
+	Query: "class:reptilia locality:wake" ; Times: 3
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "catalognumber:18639 institutioncode:NCSM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1584 download events in this period)
+Total number of records downloaded: 15
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "holotype class:aves" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+
+
+End of report.
