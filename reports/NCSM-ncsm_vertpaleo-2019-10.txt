@@ -1,0 +1,61 @@
+Report for Institution Code NCSM, Resource ncsm_vertpaleo
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 32
+Number of records retrieved in searches: 441
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 10
+	Country: United States ; Times: 1
+	Country: New Zealand ; Times: 19
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-22 ; Times: 2
+	Date: 2019-10-24 ; Times: 9
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-11 ; Times: 2
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-07 ; Times: 3
+	Date: 2019-10-23 ; Times: 10
+	Date: 2019-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "green sturgeon" ; Times: 1
+	Query: "Odontaspis ferox" ; Times: 2
+	Query: "Carcharhinus plumbeus" ; Times: 2
+	Query: "Carcharhinus perezii" ; Times: 2
+	Query: "locality:New Hanover" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 2
+	Query: "Galeorhinus galeus" ; Times: 2
+	Query: "Carcharhinus macloti" ; Times: 2
+	Query: "tanystropheus" ; Times: 8
+	Query: "Notorynchus cepedianus" ; Times: 2
+	Query: "trilophosaurus" ; Times: 1
+	Query: "Odontaspis noronhai" ; Times: 1
+	Query: "Carcharhinus brachyurus" ; Times: 2
+	Query: "Carcharhinus obscurus" ; Times: 2
+	Query: "archosaurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1308 download events in this period)
+Total number of records downloaded: 5
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stercorariidae" ; Times: 1
+
+
+End of report.
