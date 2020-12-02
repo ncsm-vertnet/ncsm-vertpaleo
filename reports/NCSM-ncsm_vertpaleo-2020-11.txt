@@ -1,0 +1,78 @@
+Report for Institution Code NCSM, Resource ncsm_vertpaleo
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 135
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 7
+	Country: Canada ; Times: 1
+	Country: France ; Times: 9
+	Country: United Kingdom ; Times: 4
+	Country: Thailand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-21 ; Times: 4
+	Date: 2020-11-23 ; Times: 1
+	Date: 2020-11-24 ; Times: 2
+	Date: 2020-11-18 ; Times: 1
+	Date: 2020-11-27 ; Times: 2
+	Date: 2020-11-15 ; Times: 3
+	Date: 2020-11-11 ; Times: 1
+	Date: 2020-11-02 ; Times: 2
+	Date: 2020-11-10 ; Times: 2
+	Date: 2020-11-13 ; Times: 1
+	Date: 2020-11-01 ; Times: 1
+	Date: 2020-11-25 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Ursus americanus" ; Times: 2
+	Query: "Dasyatis centroura" ; Times: 1
+	Query: "Stenotomus chrysops" ; Times: 2
+	Query: "Carcharhinus plumbeus" ; Times: 3
+	Query: "catalognumber:155 institutioncode:NCSM" ; Times: 1
+	Query: "14187" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "Redpath Museum" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 1
+	Query: "family:Trionychidae stateprovince:&#34;North Carolina&#34; isfossil:1" ; Times: 1
+	Query: "family:Trionychidae stateprovince:&#34;Mississippi&#34; isfossil:1" ; Times: 1
+	Query: "scientificname:Alosa alosa" ; Times: 5
+	Query: "family:Trionychidae stateprovince:&#34;Georgia&#34; isfossil:1" ; Times: 1
+	Query: "trachemys terrapin" ; Times: 1
+	Query: "family:Trionychidae stateprovince:&#34;Alabama&#34; isfossil:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 842 download events in this period)
+Total number of records downloaded: 208
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 1
+	Date: 2020-11-06 ; Times: 1
+	Date: 2020-11-04 ; Times: 1
+	Date: 2020-11-05 ; Times: 1
+	Date: 2020-11-13 ; Times: 1
+	Date: 2020-11-12 ; Times: 1
+	Date: 2020-11-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "order:Squamata country:&#34;United States&#34; institutioncode:NCSM" ; Times: 1
+	Query: "cope" ; Times: 1
+	Query: "order:Proboscidea hasmass:1" ; Times: 1
+	Query: "Trachemys" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "Peromyscus gossypinus" ; Times: 1
+	Query: "Bison bison" ; Times: 1
+
+
+End of report.
